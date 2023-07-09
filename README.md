@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanbir-Ahmed-Momin
-- 👀 I’m interested in Mobile Application
-- 🌱 I’m currently learning Laravel api
+- 👀 I’m interested in Industrial Automation
+- 🌱 I’m currently learning Firmware development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
